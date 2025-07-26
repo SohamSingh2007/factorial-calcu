@@ -1,0 +1,10 @@
+@media (max-width: 1500px) {
+    .main{
+        background-color: red;
+    }
+
+    .content{
+        width: 90%;
+        height: 90%;
+    }
+}
